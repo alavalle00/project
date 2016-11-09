@@ -2,7 +2,9 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/** 
+* Our project
+**/
 public class Main {
 	public static String bookFile = "books.txt";
 	public static String ratingFile = "ratings.txt";
